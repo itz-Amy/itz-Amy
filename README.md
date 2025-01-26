@@ -1,8 +1,8 @@
 ## Hi there 👋
-I’m currently working on a robotics competition called WRO
-I’m currently learning ROS and Gazebo
-I’m looking for help with navigating Github, ROS and Gazebo🤔
-Ask me about my robotics journey😉
+I’m currently working on a robotics competition called WRO.
+I’m currently learning ROS and Gazebo.
+I’m looking for help with navigating Github, ROS and Gazebo.🤔
+Ask me about my robotics journey.😉
 Pronouns: She/Her
 Fun fact: I like reading manga😊
 <!--
